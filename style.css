@@ -26,6 +26,9 @@ body {
     margin-top: 30px;
     border-top: 3px solid #17a2b8;
 }
+.img1{
+    width: 350px;
+}
 .portfolio-img {
     width: 100%;
     max-width: 300px;
